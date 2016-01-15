@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BigRob]]></title>
         <description><![CDATA[BigRob]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bigrob/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 00:30:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 00:49:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bigrob/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Night Photography]]></title>
+            <description><![CDATA[<article><h1>Night Photography</h1><p>I love night photography.  My camera is great for moon shots but need some help with planets and "deep space objects".</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fbab838-7bb5-4b21-818c-4636cc448de8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bigrob/night-photography/index.html</link>
+            <guid isPermaLink="false">36034c77-e03b-4905-8ca0-4d549b51dced</guid>
+            <pubDate>Fri, 15 Jan 2016 00:48:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/529bcfbc-8f7b-4150-8b06-d430324ba07b.jpg">]]></description>
-            <link>undefined54c092b1-8915-4263-b7f7-dc0d77337d34/index.html</link>
+            <link>https://thegrid.ai/bigrob/54c092b1-8915-4263-b7f7-dc0d77337d34/index.html</link>
             <guid isPermaLink="false">54c092b1-8915-4263-b7f7-dc0d77337d34</guid>
             <pubDate>Fri, 15 Jan 2016 00:29:14 GMT</pubDate>
         </item>
