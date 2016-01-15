@@ -1,6 +1,6 @@
 name: BigRob
 favicon: null
-layout_spectrum: 0.5526392413303256
+layout_spectrum: 1
 typography_spectrum: 0.31611024867743254
 title: Embrace the Rapture
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.26901723840273917
-  lightness: 0.7526679069269449
-  saturation: 0.3403488777112216
-  rhythmicContrast: 0.3758863646071404
+    - '#000000'
+    - '#3d3f3c'
+    - '#bebce4'
+    - '#ee0705'
+    - '#8c9489'
+  brandStrength: 0.25
+  lightness: 0.875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
